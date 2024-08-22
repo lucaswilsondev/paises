@@ -1,0 +1,24 @@
+.app-container {
+    padding: 20px;
+  }
+  
+  .lists-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .list {
+    flex: 1;
+    margin: 0 10px;
+    max-width: 45%;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  
+  button {
+    display: block;
+    margin: 20px auto;
+  }
+  
